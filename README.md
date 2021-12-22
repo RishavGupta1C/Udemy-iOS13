@@ -1,2 +1,2 @@
 # Udemy-iOS13
-iOS Applications that I learned in Udemy Course 
+iOS Applications that I learned in Udemy Course by Andela Yu.
